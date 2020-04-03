@@ -1,6 +1,6 @@
 # DataStructure_zju
 
-## 2020 03 24 
+## 20200324 
 
 ### 浙江大学数据结构习题-编程题
 
@@ -11,6 +11,7 @@
 - [04-树4 是否同一棵二叉搜索树](JudgeTree.cpp)
 - [04-树5 Root of AVL Tree](RootOfAVLTree.cpp)
 - [05-树7 堆中的路径](PathOfHeap.cpp)
+- [06-图1 列出连通集](ListComponents.cpp)
 
 ### 函数题
 - [01-复杂度3 二分查找](BinarySearch.cpp)
